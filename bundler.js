@@ -1,4 +1,4 @@
-//  todo: 1.sourceMap 路径和id 映射存在限制   2. 不支持import结构 ast
+// todo: 1.sourceMap 路径和id 映射存在限制   2. 不支持import结构 ast
 const fs = require("fs");
 const path = require("path");
 const parse = require("@babel/parser").parse;
